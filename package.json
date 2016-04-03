@@ -1,0 +1,16 @@
+{
+  "name": "seo-crawler",
+  "version": "0.0.0",
+  "dependencies": {
+    "simplecrawler": "0.6.2",
+    "csv": "1.0.2",
+    "csv-write-stream": "^1.0.0",
+    "webcomponents.js": "^0.7.21"
+  },
+  "author": {
+    "name": "Jens Verneuer",
+    "email": "jens.verneuer@cuponation.com"
+  },
+  "devDependencies": {
+  }
+}
