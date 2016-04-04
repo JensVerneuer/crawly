@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "simplecrawler": "0.6.2",
-    "csv": "1.0.2",
+    "csv": "0.4.6",
     "csv-write-stream": "^1.0.0",
     "webcomponents.js": "^0.7.21"
   },

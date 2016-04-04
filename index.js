@@ -3,7 +3,7 @@ var fs = require('fs');
 var parse = require('csv');
 var os = require('os');
 
-var pages = [
+var pages = ['make-everything-ok.com'
 
 ];
 
